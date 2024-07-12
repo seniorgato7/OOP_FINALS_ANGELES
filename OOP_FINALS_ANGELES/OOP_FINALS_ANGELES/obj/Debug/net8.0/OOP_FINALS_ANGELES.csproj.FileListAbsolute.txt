@@ -1,0 +1,14 @@
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\bin\Debug\net8.0\OOP_FINALS_ANGELES.exe
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\bin\Debug\net8.0\OOP_FINALS_ANGELES.deps.json
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\bin\Debug\net8.0\OOP_FINALS_ANGELES.runtimeconfig.json
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\bin\Debug\net8.0\OOP_FINALS_ANGELES.dll
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\bin\Debug\net8.0\OOP_FINALS_ANGELES.pdb
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\obj\Debug\net8.0\OOP_FINALS_ANGELES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\obj\Debug\net8.0\OOP_FINALS_ANGELES.AssemblyInfoInputs.cache
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\obj\Debug\net8.0\OOP_FINALS_ANGELES.AssemblyInfo.cs
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\obj\Debug\net8.0\OOP_FINALS_ANGELES.csproj.CoreCompileInputs.cache
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\obj\Debug\net8.0\OOP_FINALS_ANGELES.dll
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\obj\Debug\net8.0\refint\OOP_FINALS_ANGELES.dll
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\obj\Debug\net8.0\OOP_FINALS_ANGELES.pdb
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\obj\Debug\net8.0\OOP_FINALS_ANGELES.genruntimeconfig.cache
+C:\Users\sheld\source\repos\OOP_FINALS_ANGELES\OOP_FINALS_ANGELES\obj\Debug\net8.0\ref\OOP_FINALS_ANGELES.dll

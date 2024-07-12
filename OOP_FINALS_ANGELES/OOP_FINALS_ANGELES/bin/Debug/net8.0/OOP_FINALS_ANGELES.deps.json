@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OOP_FINALS_ANGELES/1.0.0": {
+        "runtime": {
+          "OOP_FINALS_ANGELES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_FINALS_ANGELES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
